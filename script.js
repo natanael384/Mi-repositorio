@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const btn2 = document.getElementById("btn2");
   const btn3 = document.getElementById("btn3");
 
-  btn1.addEventListener("mouseenter", () => {
+  btn1.addEventListener("click", () => {
     let personajes = ["Monkey D. Luffy", "meliodas", "Rengoku", "Naruto"];
     let random = personajes[Math.floor(Math.random() * personajes.length)];
     fetch(`https://api.jikan.moe/v4/characters?q=${random}`)
@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-btn2.addEventListener("mouseenter", () => {
+btn2.addEventListener("click", () => {
   let personajes = ["Monkey D. Luffy", "meliodas", "Rengoku", "Naruto"];
   let random = personajes[Math.floor(Math.random() * personajes.length)];
   fetch(`https://api.jikan.moe/v4/characters?q=${random}`)
@@ -27,7 +27,7 @@ btn2.addEventListener("mouseenter", () => {
     });
 });
 
-btn3.addEventListener("mouseenter", () => {
+btn3.addEventListener("click", () => {
   let personajes = ["Monkey D. Luffy", "meliodas", "Rengoku"];
   let random = personajes[Math.floor(Math.random() * personajes.length)];
   fetch(`https://api.jikan.moe/v4/characters?q=${random}`)
@@ -41,6 +41,6 @@ btn3.addEventListener("mouseenter", () => {
 
 Notification.requestPermission().then((permiso)=>{
     if(permiso==="granted"){
-        new Notification("hola insircunsiso")
+        new Notification("La mejor pagina web de 4to D")
     }
 })
