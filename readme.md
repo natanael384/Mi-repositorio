@@ -12,11 +12,11 @@ Este sitio web consiste en mostrar una imagen de anime cuando le das click al bo
 ---
 ## 🛠️ Tecnologías Utilizadas
 
-### -HTML
+### - HTML
 
-### -CSS
+### - CSS
 
-### -JS
+### - JS
 
  ---
 
