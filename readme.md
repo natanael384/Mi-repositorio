@@ -4,13 +4,13 @@
 ### Consumo de api
 ---
 
-## 📃 Descripción
+# 📃 Descripción
 
 
 Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le das click al boton click.
 
 ---
-## 🛠️ Tecnologías Utilizadas
+# 🛠️ Tecnologías Utilizadas
 
 #### • HTML
 
@@ -29,7 +29,7 @@ Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le 
 
 ---
 
-## ▶️ uso o Ejecución
+# ▶️ uso o Ejecución
 
 1. Ve al repositorio en GitHub.
 2. En la parte derecha, haz clic en el botón Code.
@@ -41,24 +41,24 @@ Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le 
 
 ## 🎓 Contexto Académico
 
-### Nivel
+### Nivel:
 
 Secundaria Técnico Profesional.
 
-### Módulo Formativo
+### Módulo Formativo:
 
-Diseño de portales web
+#### Diseño de portales web
 
-### Curso/Sección
+### Curso/Sección:
 
- 4to D
+#### 4to D
 
-### Año escolar
+### Año escolar:
 
-año 2025/2026.
+#### año 2025/2026.
 
 ---
 
-## 👨‍💻 Autor
+# 👨‍💻 Autor
 
 #### Reymond Nathanael Martinez Mota
