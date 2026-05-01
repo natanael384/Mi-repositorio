@@ -12,11 +12,11 @@ Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le 
 ---
 ## 🛠️ Tecnologías Utilizadas
 
-### HTML
+### • HTML
 
-### CSS
+### • CSS
 
-### JavaScript
+### • JavaScript
 
  ---
 
