@@ -1,20 +1,22 @@
 # Nombre del Proyecto
 
-### Consumo de api
 
+### Consumo de api
+---
 
 ## 📃 Descripción
 
 
 Este sitio web consiste en mostrar una imagen de anime cuando le das click al boton click.
 
+---
 ## 🛠️ Tecnologías Utilizadas
 
-### HTML
+### -HTML
 
-### CSS
+### -CSS
 
-### JS
+### -JS
 
  ---
 
