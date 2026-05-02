@@ -7,7 +7,7 @@
 ## 📃 Descripción
 
 
-Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le das click al boton click.
+Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le das click al boton click y  nuestra una notificación en pantalla.
 
 ---
 # 🛠️ Tecnologías Utilizadas
